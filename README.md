@@ -20,4 +20,4 @@ Introducing NumPy functions and usability
 
 | Notebook  | Description  |
 |---|---|
-| [numpy-introduction]()  | The basic functions of numpy library including create, modify and indexing  |
+| [numpy-introduction](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/numpy/numpy_introduction.ipynb)  | The basic functions of numpy library including create, modify and indexing  |
