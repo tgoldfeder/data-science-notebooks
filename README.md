@@ -12,7 +12,7 @@ Introducing Pandas functions and usability
 |---|---|
 | pandas-intorudction  | The basic functions of pandas library including load, concatenate and indexing  |
 | pandas-operations  | Practice DataFrame Operations and handle missing values  |
-| pandas-combine-datasets  | Practice combining datasets  |
+| pandas-combine-datasets(https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/pandas/pandas_combining_datasets.ipynb)  | Practice combining datasets  |
 
 ## numpy
 
