@@ -1,10 +1,10 @@
 # data-science-notebooks
 This repository will include different topics examples in data science from data wrangling to training different ML/DL models
 
-* [pandas](#pandas)
-* [numpy](#numpy)
+* [Pandas](#Pandas)
+* [NumPy](#NumPy)
 
-## pandas
+## Pandas
 
 Introducing Pandas functions and usability
 
@@ -14,7 +14,7 @@ Introducing Pandas functions and usability
 | [pandas-operations](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/pandas/pandas_operations_missing_values.ipynb)  | Practice DataFrame Operations and handle missing values  |
 | [pandas-combine-datasets](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/pandas/pandas_combining_datasets.ipynb)  | Practice combining datasets  |
 
-## numpy
+## NumPy
 
 Introducing NumPy functions and usability
 
