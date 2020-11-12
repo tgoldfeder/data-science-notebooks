@@ -11,7 +11,7 @@ Introducing Pandas functions and usability
 | Notebook  | Description  |
 |---|---|
 | [pandas-intorudction](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/pandas/pandas_introduction.ipynb)  | The basic functions of pandas library including load, concatenate and indexing  |
-| [pandas-operations]()  | Practice DataFrame Operations and handle missing values  |
+| [pandas-operations](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/pandas/pandas_operations_missing_values.ipynb)  | Practice DataFrame Operations and handle missing values  |
 | [pandas-combine-datasets](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/pandas/pandas_combining_datasets.ipynb)  | Practice combining datasets  |
 
 ## numpy
