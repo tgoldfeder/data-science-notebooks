@@ -4,6 +4,8 @@ This repository will include different topics examples in data science from data
 * [Pandas](#Pandas)
 * [NumPy](#NumPy)
 
+<br><br>
+
 ## Pandas
 
 Introducing Pandas functions and usability
