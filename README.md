@@ -15,7 +15,8 @@ Introducing Pandas functions and usability
 | [pandas-combine-datasets](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/pandas/pandas_combining_datasets.ipynb)  | Practice combining datasets  |
 | [pandas-aggregation-grouping](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/pandas/pandas_agg_grouping.ipynb)  | Learn Pandas aggregation and grouping methods  |
 
-  
+<br>
+<br>
   
 ## NumPy
 
