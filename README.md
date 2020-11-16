@@ -4,6 +4,7 @@ This repository will include different topics examples in data science from data
 * [Pandas](#Pandas)
 * [NumPy](#NumPy)
 * [Matplotlib](#Matplotlib)
+* [Data Exploratory](#Data Exploratory)
 
 <br><br>
 
@@ -34,5 +35,12 @@ This repository will include different topics examples in data science from data
 |---|---|
 | [matplotlib](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/matplotlib/matplotlib.ipynb)  | Practice using generic matplotlib functions and charts  |
 
+<br><br>
+
+## Data Exploratory
+
+| Notebook  | Description  |
+|---|---|
+| [diabetes-exploration](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/data-exploratory/diabetes_exploratory.ipynb)  | Practice data exploration on diabetes dataset  |
 
 
