@@ -4,7 +4,7 @@ This repository will include different topics examples in data science from data
 * [Pandas](#Pandas)
 * [NumPy](#NumPy)
 * [Matplotlib](#Matplotlib)
-* [Data Exploratory](#Data Exploratory)
+* [Data-Exploratory](#Data-Exploratory)
 
 <br><br>
 
@@ -37,7 +37,7 @@ This repository will include different topics examples in data science from data
 
 <br><br>
 
-## Data Exploratory
+## Data-Exploratory
 
 | Notebook  | Description  |
 |---|---|
