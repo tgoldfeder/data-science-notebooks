@@ -3,12 +3,11 @@ This repository will include different topics examples in data science from data
 
 * [Pandas](#Pandas)
 * [NumPy](#NumPy)
+* [Matplotlib](#Matplotlib)
 
 <br><br>
 
 ## Pandas
-
-Introducing Pandas functions and usability
 
 | Notebook  | Description  |
 |---|---|
@@ -22,9 +21,18 @@ Introducing Pandas functions and usability
   
 ## NumPy
 
-Introducing NumPy functions and usability
-
 | Notebook  | Description  |
 |---|---|
 | [numpy-introduction](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/numpy/numpy_introduction.ipynb)  | The basic functions of numpy library including create, modify and indexing  |
 | [numpy-indexing-sorting](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/numpy/numpy-indexing-sorting.ipynb)  | Practice indexing and sorting on numpy arrays  |
+
+<br><br>
+
+## Matplotlib
+
+| Notebook  | Description  |
+|---|---|
+| [matplotlib](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/matplotlib/matplotlib.ipynb)  | Practice using generic matplotlib functions and charts  |
+
+
+
