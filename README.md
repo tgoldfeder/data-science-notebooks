@@ -5,6 +5,7 @@ This repository will include different topics examples in data science from data
 * [NumPy](#NumPy)
 * [Matplotlib](#Matplotlib)
 * [Data-Exploratory](#Data-Exploratory)
+* [Machine-Learning](#Machine-Learning)
 
 <br><br>
 
@@ -42,5 +43,13 @@ This repository will include different topics examples in data science from data
 | Notebook  | Description  |
 |---|---|
 | [diabetes-exploration](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/data-exploratory/diabetes_exploratory.ipynb)  | Practice data exploration on diabetes dataset  |
+
+<br><br>
+
+## Machine-Learning
+
+| Notebook  | Description  |
+|---|---|
+|  [car-price-prediction](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/machine-learning/car_price_predictions.ipynb)  | Practice Linear Regression model and feature selection  |
 
 
