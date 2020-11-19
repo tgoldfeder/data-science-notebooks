@@ -50,6 +50,6 @@ This repository will include different topics examples in data science from data
 
 | Notebook  | Description  |
 |---|---|
-|  [car-price-prediction](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/machine-learning/car_price_predictions.ipynb)  | Practice Linear Regression model and feature selection  |
+|  [linear-regression](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/machine-learning/car_price_predictions.ipynb)  | Practice Linear Regression model and feature selection with car price prediction |
 
 
