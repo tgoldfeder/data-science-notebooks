@@ -53,5 +53,6 @@ This repository will include different topics examples in data science from data
 |  [linear-regression](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/machine-learning/car_price_predictions.ipynb)  | Practice Linear Regression model and feature selection with car price prediction |
 |  [k-means](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/machine-learning/spanish_league_teams_cluster.ipynb)  | Practice KMeans clustering algorithm on spanish league teams |
 |  [svm](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/machine-learning/face_recognition.ipynb)  | Practice face recognition using SVM and PCA  |
+|  [logistic-regression](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/machine-learning/nba_games_prediction.ipynb)  | Practice nba games classification using Logistic Regression |
 
 
