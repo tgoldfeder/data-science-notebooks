@@ -27,6 +27,7 @@ This repository will include different topics examples in data science from data
 |---|---|
 | [numpy-introduction](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/numpy/numpy_introduction.ipynb)  | The basic functions of numpy library including create, modify and indexing  |
 | [numpy-indexing-sorting](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/numpy/numpy-indexing-sorting.ipynb)  | Practice indexing and sorting on numpy arrays  |
+| [numba](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/numpy/numba.ipynb)  | Practice using numba with numpy for speeding calculations  |
 
 <br><br>
 
