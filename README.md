@@ -56,6 +56,6 @@ This repository will include different topics examples in data science from data
 |  [svm](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/machine-learning/face_recognition.ipynb)  | Practice face recognition using SVM and PCA  |
 |  [logistic-regression](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/machine-learning/nba_games_prediction.ipynb)  | Practice nba games classification using Logistic Regression |
 |  [xgboost](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/machine-learning/titanic.ipynb)  | Practice with algorithm XGBoostClassifier |
-|  [ridge-regression](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/machine-learning/ridge_regression.ipynb)  | Practive with Ridge Regression  |
+|  [ridge-regression](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/machine-learning/ridge_regression.ipynb)  | Practice with Ridge Regression  |
 
 
