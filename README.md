@@ -57,5 +57,5 @@ This repository will include different topics examples in data science from data
 |  [logistic-regression](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/machine-learning/nba_games_prediction.ipynb)  | Practice nba games classification using Logistic Regression |
 |  [xgboost](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/machine-learning/titanic.ipynb)  | Practice with algorithm XGBoostClassifier |
 |  [ridge-regression](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/machine-learning/ridge_regression.ipynb)  | Practice with Ridge Regression  |
-
+|  [stacking](https://github.com/TomerGoldfeder/data-science-notebooks/blob/main/machine-learning/stacking.ipynb)  | Practice with Stacking method for regression  |
 
